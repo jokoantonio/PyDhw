@@ -1,4 +1,4 @@
 # PyDhw
 Python code to calculate Degree Heating Weeks (DHW), Monthly Mean Climatology (MM), Maximum Monthly Mean Climatology (MMM), and Hot Spot (HS). In addition, this code also shows a coral bleaching alert graph.
 You need a Google Earth engine account to use this code for accessing and extracting the SST dataset in the Google Earth engine (HyCom, NOAA OISST, MODIS-Aqua, NOAA Pathfinder).
-Input: start and end dates for the interest data to be analyzed. 
+Input: Polygon or point of location to be analyzed, start and end dates for the interest data to be analyzed. 
